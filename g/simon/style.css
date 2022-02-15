@@ -1,0 +1,82 @@
+	.thing{
+		width: 250px;
+		height:  225px;
+		cursor: pointer;
+		transition:  0.1s filter;
+		margin:  3px;
+	}
+
+	.things{
+		display:  flex;
+		align-items:  center;
+		flex-direction: column;
+	}
+
+	.thing:hover{
+		filter:  brightness(0.9);
+	}
+
+	.thing:active{
+		filter:  brightness(0.5);
+	}
+
+	.things-row{
+		display: flex;
+	}
+
+	.thing.red{
+		background-color:  #FF0040;
+		border-top-left-radius: 1rem;
+	}
+	.thing.green{
+		background-color:  #5AC54F;
+		border-top-right-radius: 1rem;
+	}
+	.thing.yellow{
+		background-color:  #FFEB57;
+		border-bottom-right-radius: 1rem;
+	}
+	.thing.blue{
+		background-color:  #0098DC;
+		border-bottom-left-radius: 1rem;
+	}
+
+	.start{
+		padding:  20px 80px;
+		font-size:  30px;
+		border:  none;
+		cursor:  pointer;
+		border-radius:  0.6rem;
+		background-color:  #DB3FFD;
+		color:  white;
+		transition:  filter 0.1s;
+	}
+
+	.start:hover{
+		filter:  brightness(1.1);
+	}
+
+	.yourturn{
+		font-size:  20px;
+		font-family:  Arial;
+	}
+
+	.score{
+		background-color:  #C7CFDD;
+		width:  483px;
+		padding:  10px;
+		font-family:  Arial;
+		border-radius:  0.5rem;
+		margin-bottom:  20px;
+		display:  flex;
+		align-items:  center;
+		justify-content:  space-between;
+	}
+
+	.gray-text{
+		color:  #B4B4B4;
+	}
+
+	.score-text{
+		color:  #131313;
+	}
