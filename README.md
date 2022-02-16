@@ -29,8 +29,8 @@ Usage
 
 You may use this code for any of your needs (Making the site unblocked ext) You must give creddit and keep the credits open though. Thats it
 
-# The future of axis, is here!
-We have made our site super hard to block by making it run on about:blank! go to the links below for the Future of axis now!
+# The future of axis is here!
+We have made our site super hard to block by making it run on about:blank! go to the links below for the Future of axis!
 
 url: https://axis-safe.vercel.app/
 
