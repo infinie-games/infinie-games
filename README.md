@@ -1,5 +1,5 @@
 # Axis-network
-hi! this is the code for axis network! Below I will explain what all the code is for
+hi! this is the code for axis network! Below I will explain what all the code is for axis network
 
 # Backups and betas
 This is all the code that we were using that are still in beta that we are working on!
