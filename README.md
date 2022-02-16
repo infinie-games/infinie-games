@@ -29,3 +29,8 @@ Usage
 
 You may use this code for any of your needs (Making the site unblocked ext) You must give creddit and keep the credits open though. Thats it
 
+# beta url/git
+
+url: https://axis-safe.vercel.app/
+
+git: https://github.com/ChillYTT/Axis-Beta
