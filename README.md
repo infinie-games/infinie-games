@@ -27,7 +27,7 @@ Hello Below is the TOS of the website. Thank for visiting our site, and here are
 
 Usage
 
-You may use this code for any of your needs (Making the site unblocked ext) You must give creddit and keep the credits open though. Thats it
+You may use this code for any of your needs (Making the site unblocked ext) You must give creddit and keep the credits open though. You are not alowed to take our code then rebrand the site, unless I give permisiion (ask me on discord; Chill#0960), thank you for understanding. Thats it
 
 # The future of axis is here!
 We have made our site super hard to block by making it run on about:blank! go to the links below for the Future of axis!
