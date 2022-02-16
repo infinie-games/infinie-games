@@ -1,34 +1,26 @@
 # Axis-network
 hi! this is the code for axis network! Below I will explain what all the code is for
 
-#Backups and betas
+# Backups and betas
 This is all the code that we were using that are still in beta that we are working on!
 
-#css
+# css
 It is just css, nothing special
 
-#g
+# g
 This is where all the games are stored and will be added!
 
-#Images
+# Images
 Just images for the downloadable version of the site
 
-#img
+# img
 that is for the login background pictures and other stuff
 
-#js
+# js
 this is where some of the js is. But not all
 
 
-
-#TOS 
-
-Home
-TOS
-Credit
-}
-
-Terms Of service
+# Terms Of service
 
 
 Hello Below is the TOS of the website. Thank for visiting our site, and here are the rules.
