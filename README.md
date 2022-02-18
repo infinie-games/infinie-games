@@ -30,8 +30,11 @@ Usage
 You may use this code for any of your needs (Making the site unblocked ext) You must give creddit and keep the credits open though. You are not alowed to take our code then rebrand the site, unless I give permisiion (ask me on discord; Chill#0960), thank you for understanding. Thats it
 
 # The future of axis is here!
-We have made our site super hard to block by making it run on about:blank! go to the links below for the Future of axis!
+We have made our site super hard to block by making it run on about:blank! go to the links below for the Future of axis! 
 
 url: https://axis-safe.vercel.app/
 
 git hub: https://github.com/ChillYTT/Axis-Beta
+
+# fyi for axis beta
+Axis beta is something that me and my friends are working on, this is not ment to be fully distributed and used. This is only for me, my friends, and kids at my school. If you want to use it you can, but this isnt really for yall.
